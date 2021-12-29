@@ -1,2 +1,2 @@
-# java-area-programs
+# java-programs
 Java Programs in this Repository
